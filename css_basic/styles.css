@@ -4,3 +4,5 @@ main{flex-direction: row; flex: auto;}
 article {flex: 2}
 aside {flex: 1}
 article, aside {overflow-y: auto}
+body{background-color: antiquewhite;}
+.logo { width: 300px; height: auto;}
