@@ -1,0 +1,32 @@
+body{background-image: url(/headphones/images/headphones_hero_1.jpg); object-fit: cover; color: white;;}
+.logo {display: flex; flex-direction: row;}
+.item {position: absolute; right: 0; margin-top: 0px; margin-top: -60px;}
+a {margin-right: 10px; color: white; text-decoration: none; font-weight:bolder ;}
+h2 {display:inline-flex; padding-right: 30px; }
+.main_text{margin-top: 150px; text-align: center;margin-top: 300px;}
+.sub_text{text-align: center; margin-top: -30px; font-weight:lighter;}
+button {position: absolute; right: 50%;background-color: rgb(232, 76, 89); color: white; width: 120px; height: 35px; border-radius: 12px; font-weight: bold;}
+p{text-align: center; margin-top: 50px;}
+.do {background-color: white; color: black;}
+.txt1 {color: black;}
+.results {background-color: black; color: white;}
+.main1 {color: white;}
+.do1 {display: inline-block; margin-right: 100px; justify-content: right;}
+.img1 {width: 180px; height: 180px; }
+.txt1 {display:inline-flex;}
+.do1 img {display: block;}
+.do1 h3 {display: block; margin-left: 50px;}
+.do1 p {display: block; margin-top: -10px;}
+.resultstxt {display: flex; flex-direction: column;}
+.numbers { display: inline-flex; margin-right: 20px;}
+.contact { height: 500px; width; 500px; background-color:white; color: black; align-content: center; }
+label {display: block; margin-bottom: 40px ;}
+.fot {height: 50px; width: 50px;  }
+footer div{ display: inline; flex-direction: row;}
+footer {background-image: black;}
+.paragraph {width: 820px; height: 120px; justify-content: center; align-items: center; margin: auto;}
+@media screen and (max-width: 600px) {
+    .item {display: none;},
+    }
+  }
+
